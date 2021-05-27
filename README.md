@@ -1,6 +1,29 @@
-# AngularRocks
+# Essential Angular Course
+<br>
+
+## Summary of course content:
+- Components and templates.
+- Internal routes.
+- Dynamic routes.
+- Services.
+- External file upload.
+- Error handling.
+- Loading dialogs.
+- Render2.
+- DOM control.
+<br>
+<br>
+
+## Technologies
+`Node.JS`<br>
+`TypeScript`<br>
+`Angular`<br>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+<br>
+<br>
+<hr>
+<br>
 
 ## Development server
 
