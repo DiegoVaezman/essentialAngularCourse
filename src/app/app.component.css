@@ -1,0 +1,53 @@
+.textos{
+    display: flex;
+    flex-direction: row;
+}
+.contenedor{
+    border: 3px solid black;
+    padding: 50px;
+    width: 40vw;
+    height: 30vw;
+}
+.item{
+    background-color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*CAMBIO DE ESTILOS*/
+.cuadrado{
+    display: block;
+    margin: 20px;
+    height: 150px;
+    width: 150px;
+    border: 1px solid silver;
+    background: #ccc;
+}
+
+button.activo{
+    background: #03A9F4;
+    color: yellow;
+    font-weight: bold;
+}
+
+.green{
+    border-bottom: 7px solid greenyellow;
+}
+.red{
+    border-bottom: 7px solid crimson;
+}
+
+/*LISTAS*/
+
+li{
+    list-style-type: none;
+    font-size: 20px;
+    padding: 10px 0;
+}
+li span{
+    color: #fff;
+    background: red;
+    font-family: monospace;
+    font-size: 12px;
+    padding: 4px 8px;
+    letter-spacing: 2px;
+}
